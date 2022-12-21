@@ -1,4 +1,4 @@
-const listUser = require('../../domain/user/mocks/UserMock')
+/* const listUser = require('../../domain/user/mocks/UserMock') */
 
 class CreateNewUser {
 
